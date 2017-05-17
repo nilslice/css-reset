@@ -1,6 +1,7 @@
 # css-reset
 
 minified set of styles to reset default browser user agent styling, based on [Eric Meyer's](https://meyerweb.com/eric/tools/css/reset/) CSS reset stylesheet
+- added `box-sizing: border-box` for preference
 
 uncompressed original, if you feel like copy/pasting:
 ```css
