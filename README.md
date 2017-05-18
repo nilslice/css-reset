@@ -2,6 +2,7 @@
 
 minified set of styles to reset default browser user agent styling, based on [Eric Meyer's](https://meyerweb.com/eric/tools/css/reset/) CSS reset stylesheet
 - added `box-sizing: border-box` for preference
+- add input, textare to general override and keep original borders
 
 uncompressed original, if you feel like copy/pasting:
 ```css
